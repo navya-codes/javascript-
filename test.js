@@ -63,4 +63,38 @@
 // console.log(undefined == 0);
 // console.log(undefined >= 0); 
 
-console.log("2" === 2);
+//console.log("2" === 2);
+
+
+// const name = "navya";
+// const count = 50;
+
+//console.log(`hello my name is ${name} and my repo count is ${count}`)
+
+// console.log(name.__proto__);
+// console.log(name[0]);
+// console.log(name.length);
+// console.log(name.toUpperCase());
+// console.log(name.charAt(2));
+// console.log(name.indexOf('l'));
+
+
+
+// const score = 100;
+// console.log(score);
+
+// const balance = new Number(10);
+// console.log(balance);
+
+// const max = 6;
+// const min = 1;
+
+// console.log(Math.floor(Math.random() * (max - min +1)) + min);
+
+// const Mydate = new Date();
+// console.log(Mydate);
+// console.log(Mydate.toString);
+// console.log(Mydate.toDateString);
+// console.log(Mydate.toISOString);
+// console.log(Mydate.toLocaleDateString);
+// console.log(Mydate.toLocaleString);
